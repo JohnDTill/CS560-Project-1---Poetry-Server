@@ -1,0 +1,5 @@
+poet=William Shakespeare&poem1=Shall I Compare Thee to a Summer's Day?&poem2=Sonnet 116&poem3=
+poet=Joyce Kilmer&poem1=Trees&poem2=&poem3=
+poet=Emily Dickinson&poem1=Forever is composed of Nows&poem2=Tell all the truth but tell it slant&poem3=Crumbling is not an instant's Act
+poet=Wendell Berry&poem1=&poem2=&poem3=
+poet=Unknown&poem1=Math Limerick&poem2=&poem3=
